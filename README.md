@@ -1,11 +1,13 @@
 # Wordle (ES)
-
 Python 3.7.4
+
 Matplotlib
+
 Numpy
 
 ## Authors
 Luis Chirlaque Hernández
+
 Antonio Carrera Maestro
 
 ## Contributing
